@@ -51,3 +51,21 @@ Grâce à cette optimisation, l'application offre une expérience de contrôle f
 
 ## Screenshots
 `...`
+
+<div align="center">
+<img src="/Documentation/Screenshots/1.png" width="500"/>
+<p>Page d'accueil</p>
+
+<img src="/Documentation/Screenshots/2.png" width="500"/>
+<p>Page recherche d'appareil</p>
+
+<img src="/Documentation/Screenshots/3.png" width="500"/>
+<p>Page de controle</p>
+
+<img src="/Documentation/Screenshots/4.png" width="500"/>
+<img src="/Documentation/Screenshots/5.png" width="500"/>
+<img src="/Documentation/Screenshots/6.png" width="500"/>
+<img src="/Documentation/Screenshots/7.png" width="500"/>
+<img src="/Documentation/Screenshots/8.png" width="500"/>
+<img src="/Documentation/Screenshots/9.png" width="500"/>
+</div>
