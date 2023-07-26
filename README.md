@@ -16,16 +16,16 @@ La partie mobile du projet est développée en utilisant le framework Flutter. E
 
 ## Fonctionnalités
 
-- *Contrôle des Odeurs :*
+- **Contrôle des Odeurs :**
 L'application mobile permet à l'utilisateur de sélectionner parmi 4 odeurs préenregistrées celle qu'il souhaite diffuser dans l'environnement cible. Chaque odeur est identifiée par un nom convivial pour faciliter la sélection.
 
-- *Réglage de la Puissance de Diffusion :*
+- **Réglage de la Puissance de Diffusion :**
 L'utilisateur peut ajuster la puissance de diffusion de l'odeur choisie. Cette fonctionnalité permet d'adapter l'intensité de l'odeur selon les préférences personnelles ou l'environnement.
 
-- *Mode de Diffusion :*
+- **Mode de Diffusion :**
 Le système de diffusion prend en charge deux modes : permanent et par intermittence. L'utilisateur peut choisir le mode de diffusion qui correspond le mieux à ses besoins.
 
-- *Mode Timeline :*
+- **Mode Timeline :**
 Le mode Timeline est une fonctionnalité avancée de l'application mobile. Il permet à l'utilisateur de créer une séquence de diffusion d'odeur avec des paramètres spécifiques. L'utilisateur peut programmer plusieurs étapes de diffusion avec différentes odeurs, puissances et modes de diffusion pour une expérience olfactive personnalisée.
 
 
