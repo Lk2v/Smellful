@@ -1,6 +1,6 @@
 [submodule "smellful-arduino"]
-	path = smellful-arduino
+	path = arduino
 	url = https://github.com/Lk2v/smellful-arduino.git
 [submodule "smellful-flutter"]
-	path = smellful-flutter
+	path = flutter
 	url = https://github.com/Lk2v/smellful-flutter.git
