@@ -1,0 +1,3 @@
+[submodule "smellful-arduino"]
+	path = smellful-arduino
+	url = https://github.com/Lk2v/smellful-arduino.git
