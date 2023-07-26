@@ -68,4 +68,10 @@ Grâce à cette optimisation, l'application offre une expérience de contrôle f
 <img src="/Documentation/Screenshots/7.png" width="500"/>
 <img src="/Documentation/Screenshots/8.png" width="500"/>
 <img src="/Documentation/Screenshots/9.png" width="500"/>
+<img src="/Documentation/Screenshots/10.png" width="500"/>
+<img src="/Documentation/Screenshots/11.png" width="500"/>
+<img src="/Documentation/Screenshots/12.png" width="500"/>
+<img src="/Documentation/Screenshots/13.png" width="500"/>
+<img src="/Documentation/Screenshots/14.png" width="500"/>
+<img src="/Documentation/Screenshots/15.png" width="500"/>
 </div>
