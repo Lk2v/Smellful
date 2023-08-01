@@ -49,29 +49,37 @@ Pour optimiser le contrôle, nous avons développé un système intelligent qui 
 
 Grâce à cette optimisation, l'application offre une expérience de contrôle fluide et réactive, tout en assurant une gestion efficace et immédiate des instructions envoyées au système embarqué.
 
+# Demo
+
+## Screenrecords
+<div align="center">
+    <video src="Documentation/Screenrecords/timeline_mode.mov" controls width="500">
+    </video>
+    <p>Mode timeline</p>
+</div>
+
 ## Screenshots
-`...`
 
 <div align="center">
-<img src="/Documentation/Screenshots/1.png" width="500"/>
+<img src="Documentation/Screenshots/1.png" width="500"/>
 <p>Page d'accueil</p>
 
-<img src="/Documentation/Screenshots/2.png" width="500"/>
+<img src="Documentation/Screenshots/2.png" width="500"/>
 <p>Page recherche d'appareil</p>
 
-<img src="/Documentation/Screenshots/3.png" width="500"/>
+<img src="Documentation/Screenshots/3.png" width="500"/>
 <p>Page de controle</p>
 
-<img src="/Documentation/Screenshots/4.png" width="500"/>
-<img src="/Documentation/Screenshots/5.png" width="500"/>
-<img src="/Documentation/Screenshots/6.png" width="500"/>
-<img src="/Documentation/Screenshots/7.png" width="500"/>
-<img src="/Documentation/Screenshots/8.png" width="500"/>
-<img src="/Documentation/Screenshots/9.png" width="500"/>
-<img src="/Documentation/Screenshots/10.png" width="500"/>
-<img src="/Documentation/Screenshots/11.png" width="500"/>
-<img src="/Documentation/Screenshots/12.png" width="500"/>
-<img src="/Documentation/Screenshots/13.png" width="500"/>
-<img src="/Documentation/Screenshots/14.png" width="500"/>
-<img src="/Documentation/Screenshots/15.png" width="500"/>
+<img src="Documentation/Screenshots/4.png" width="500"/>
+<img src="Documentation/Screenshots/5.png" width="500"/>
+<img src="Documentation/Screenshots/6.png" width="500"/>
+<img src="Documentation/Screenshots/7.png" width="500"/>
+<img src="Documentation/Screenshots/8.png" width="500"/>
+<img src="Documentation/Screenshots/9.png" width="500"/>
+<img src="Documentation/Screenshots/10.png" width="500"/>
+<img src="Documentation/Screenshots/11.png" width="500"/>
+<img src="Documentation/Screenshots/12.png" width="500"/>
+<img src="Documentation/Screenshots/13.png" width="500"/>
+<img src="Documentation/Screenshots/14.png" width="500"/>
+<img src="Documentation/Screenshots/15.png" width="500"/>
 </div>
