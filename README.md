@@ -52,11 +52,8 @@ Grâce à cette optimisation, l'application offre une expérience de contrôle f
 # Demo
 
 ## Screenrecords
-<div align="center">
-    <video src="Documentation/Screenrecords/timeline_mode.mov" controls width="500">
-    </video>
-    <p>Mode timeline</p>
-</div>
+
+<a href="Documentation/Screenrecords/timeline_mode.mov">Mode timeline</a>
 
 ## Screenshots
 
