@@ -49,13 +49,18 @@ Pour optimiser le contrôle, nous avons développé un système intelligent qui 
 
 Grâce à cette optimisation, l'application offre une expérience de contrôle fluide et réactive, tout en assurant une gestion efficace et immédiate des instructions envoyées au système embarqué.
 
-# Demo
+## Demo
 
-## Screenrecords
+### Mode timeline
 
-<a href="Documentation/Screenrecords/timeline_mode.mov">Mode timeline</a>
+<div align="center">
+  
+[timeline_mode.webm](https://github.com/Lk2v/Smellful/assets/26687216/e63fd007-ce40-40fe-81ed-dfa68eed5126)
 
-## Screenshots
+<p>Presentation du mode timeline</p>
+</div>
+
+### Screenshots
 
 <div align="center">
 <img src="Documentation/Screenshots/1.png" width="500"/>
